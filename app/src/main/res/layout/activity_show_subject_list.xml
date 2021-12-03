@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ShowSubjectListActivity"
+    android:background="@drawable/subject_list_activity_design"
+    android:padding="20dp">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Discrete Mathematics"
+        android:textSize="18sp"
+        android:gravity="left|center_vertical"
+        android:onClick="openNotesActivity"
+        android:textColor="@color/colorWhite"
+        android:background="@drawable/subject_list_button_design"
+        android:drawableRight="@drawable/orward"
+        android:paddingRight="@dimen/twelve_dp"
+        android:paddingLeft="20dp"
+        />
+
+</RelativeLayout>
