@@ -1,7 +1,7 @@
 # Digi E-Learning
 
 ## Introduction
-> The ** Digi E-learning ** app is basically the online learning platform where student can get their notes related to the current syllabus they are studying right now. It is the warehouse of study notes where softcopy of notes and handwritten notes are available. Digi E-Learning app is the online equivalent of notebooks, and because they're digital, they can do more for you than paper ever could. Most can store your notes in the cloud and sync them across multiple devices. Note-taking apps also include text search, so in a matter of seconds, you can find whatever notes you need. This project includes notes from class1 to Post graduates. This notes apps let you do more than a notes from the web it has inbuilt mathematical tool which includes calculator, scientific calculator, timer, log-table, Tri-Formulae. This app has Quiz section in which students can take the quiz and evaluate their performance by their own. This app not only help students to find their flaws but also make them to increase their potential to cope up with the competitive world.
+> The **Digi E-learning** app is basically the online learning platform where student can get their notes related to the current syllabus they are studying right now. It is the warehouse of study notes where softcopy of notes and handwritten notes are available. Digi E-Learning app is the online equivalent of notebooks, and because they're digital, they can do more for you than paper ever could. Most can store your notes in the cloud and sync them across multiple devices. Note-taking apps also include text search, so in a matter of seconds, you can find whatever notes you need. This project includes notes from class1 to Post graduates. This notes apps let you do more than a notes from the web it has inbuilt mathematical tool which includes calculator, scientific calculator, timer, log-table, Tri-Formulae. This app has Quiz section in which students can take the quiz and evaluate their performance by their own. This app not only help students to find their flaws but also make them to increase their potential to cope up with the competitive world.
 
 ## Aim of the Project
 
@@ -37,26 +37,26 @@
 order processing be carried out by a new system more efficiently than previous one.
 
 > The test of feasibility stated below are equally important:-
-- ** Operation feasibility: ** Do the current work practices and procedures support a new system. Also social factors i.e. how the organizational changes will affect the working lives of those affected by the application.
-* ** Technical feasibility: ** The technical issue raised during the feasibility stage of investigation includes existence of necessary technology to support the proposed system, the prospects of ability to expand the system if developed etc.
-+ ** Economic feasibility: ** A system that can be developed technically and that will be used if installed must still were a good investment for the organization.
+- **Operation feasibility:** Do the current work practices and procedures support a new system. Also social factors i.e. how the organizational changes will affect the working lives of those affected by the application.
+* **Technical feasibility:** The technical issue raised during the feasibility stage of investigation includes existence of necessary technology to support the proposed system, the prospects of ability to expand the system if developed etc.
++ **Economic feasibility:** A system that can be developed technically and that will be used if installed must still were a good investment for the organization.
 
 ## HARDWARE REQUIREMENT
 >
-- ** Processor: ** I3 INTEL Core
-* ** Memory: ** Minimum 4GB RAM
-+ ** Hard Disk: ** 256 GB
-- ** Keyboard: ** 105 Keys
-+ ** Mouse: ** Microsoft Mouse (3 button)
+- **Processor:** I3 INTEL Core
+* **Memory:** Minimum 4GB RAM
++ **Hard Disk:** 256 GB
+- **Keyboard:** 105 Keys
++ **Mouse:** Microsoft Mouse (3 button)
 
 ## SOFTWARE REQUIREMENT
 
-- ** Front End: ** HTML, XML, JAVASCRIPT
-* ** Back End: ** JAVA, JAVASCRIPT
-+ ** Interface: ** 64-bit ODBC interface
-- ** Operating System: ** Any OS of 64-bit
-* ** For Documentation: ** Office 2010
-+ ** IDE: ** Android Studio (Also JDK 1.8)
+- **Front End:** HTML, XML, JAVASCRIPT
+* **Back End:** JAVA, JAVASCRIPT
++ **Interface:** 64-bit ODBC interface
+- **Operating System:** Any OS of 64-bit
+* **For Documentation:** Office 2010
++ **IDE:** Android Studio (Also JDK 1.8)
 
 ## Context Diagram
 
@@ -78,10 +78,10 @@ order processing be carried out by a new system more efficiently than previous o
 
 ## Salient Features Of The project
 
-- ** User friendly: ** The GUI and event driven programming the system is easiest to use rather than any text mode application.
-* ** Efficient and flexible: ** Object oriented approach (JAVA) made the system more Efficient and Flexible.
-+ ** Data transparency: ** The process page are different than display page due to restriction of the process to the server only the actual coding and data structure are hidden from the end user.
-- ** Availability: ** Only need to have an android device and a connection to the LAN or ISP. 
+- **User friendly:** The GUI and event driven programming the system is easiest to use rather than any text mode application.
+* **Efficient and flexible:** Object oriented approach (JAVA) made the system more Efficient and Flexible.
++ **Data transparency:** The process page are different than display page due to restriction of the process to the server only the actual coding and data structure are hidden from the end user.
+- **Availability:** Only need to have an android device and a connection to the LAN or ISP. 
 
 ## Limitations of the project 
 > During the development of the particular project maximum effort has been made to make the application flexible as much as possible in spite of all these, there are some limitations, which are mentioned as follows.
