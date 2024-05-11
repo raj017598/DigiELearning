@@ -42,7 +42,7 @@ order processing be carried out by a new system more efficiently than previous o
 + Economic feasibility: - A system that can be developed technically and that will be used if installed must still were a good investment for the organization.
 
 ## HARDWARE REQUIREMENT
-
+>
 -Processor: I3 INTEL Core
 *Memory: Minimum 4GB RAM
 +Hard Disk: 256 GB
