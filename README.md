@@ -111,5 +111,5 @@ order processing be carried out by a new system more efficiently than previous o
 
 > ![Timer](https://github.com/raj017598/DigiELearning/assets/57083141/b344bd71-8383-40c1-ab33-0b90ea70a1c2)
 
-![image](https://github.com/raj017598/DigiELearning/assets/57083141/35359d0b-4fa7-4c20-b2e1-d8dacbe4fff4)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
