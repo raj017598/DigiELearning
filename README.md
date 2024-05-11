@@ -11,15 +11,53 @@
 - To deliver the study material across any corner of the world
 * Notes with Quality, easy to learn and understandable.
 
-##Objectives of the System
+## Objectives of the System
 
 > The main objective of the proect is provide the high quality notes of each class from 1 to 12 along with the graduate and post graduate .
+> 
 - To Provide free notes to the student
 * To provide quality notes to the student
 + To avoid dependency on school or college
 - Make student self dependent
 * To reduce the consumption of paper
 + To upgrade student with latest information
+
+  ## Proposed Environment System
+
+ > The App is operational in all android devices.
+> 
+- Using inbuilt airthematic tools is very easy to use.
+* The content is downloadable.
++ The content is readable in offline mode.
+- The students can take quiz anytime.
+
+## Feasibility Study
+
+> A feasibility study is a preliminary study undertaken to determine and document a project’s viability. The term feasibility study is also used to refer to the resulting document. These results of this study are used to make a decision whether to proceed with the project, or table it. if it indeed leads to a project being approved, it will-before the real work of the proposed project starts-be used to ascertain the likelihood of the project’s success. it is an analysis of possible alternative solutions to a problem and a Recommendation on the best alternative. It, for example, can decide whether an 
+order processing be carried out by a new system more efficiently than previous one.
+
+> The test of feasibility stated below are equally important:-
+- Operation feasibility: - Do the current work practices and procedures support a new system. Also social factors i.e. how the organizational changes will affect the working lives of those affected by the application.
+* Technical feasibility: - The technical issue raised during the feasibility stage of investigation includes existence of necessary technology to support the proposed system, the prospects of ability to expand the system if developed etc.
++ Economic feasibility: - A system that can be developed technically and that will be used if installed must still were a good investment for the organization.
+
+## HARDWARE REQUIREMENT
+
+-Processor: I3 INTEL Core
+*Memory: Minimum 4GB RAM
++Hard Disk: 256 GB
+-Keyboard: 105 Keys
++Mouse: Microsoft Mouse (3 button)
+
+## SOFTWARE REQUIREMENT
+
+-Front End: HTML, XML, JAVASCRIPT
+*Back End: JAVA, JAVASCRIPT
++Interface: 64-bit ODBC interface
+-Operating System: Any OS of 64-bit
+*For Documentation: Office 2010
++IDE: Android Studio (Also JDK 1.8)
+
  
 ![Digi E-Learning(1)](https://github.com/raj017598/DigiELearning/assets/57083141/58bde742-e754-4f1d-9e3f-f8ec75112bf9)
 
