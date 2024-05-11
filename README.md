@@ -1,5 +1,6 @@
-# Digi E-Learning
 <a name="readme-top"></a>
+# Digi E-Learning
+
 ## Introduction
 > The **Digi E-learning** app is basically the online learning platform where student can get their notes related to the current syllabus they are studying right now. It is the warehouse of study notes where softcopy of notes and handwritten notes are available. Digi E-Learning app is the online equivalent of notebooks, and because they're digital, they can do more for you than paper ever could. Most can store your notes in the cloud and sync them across multiple devices. Note-taking apps also include text search, so in a matter of seconds, you can find whatever notes you need. This project includes notes from class1 to Post graduates. This notes apps let you do more than a notes from the web it has inbuilt mathematical tool which includes calculator, scientific calculator, timer, log-table, Tri-Formulae. This app has Quiz section in which students can take the quiz and evaluate their performance by their own. This app not only help students to find their flaws but also make them to increase their potential to cope up with the competitive world.
 
