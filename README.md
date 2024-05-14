@@ -102,7 +102,7 @@ order processing be carried out by a new system more efficiently than previous o
 + We will store the previous result of quiz of the user.
 - Too make tool run in background of app. 
 
-##UI Design
+## UI Design
  
 > ![Digi E-Learning(1)](https://github.com/raj017598/DigiELearning/assets/57083141/58bde742-e754-4f1d-9e3f-f8ec75112bf9)
 
